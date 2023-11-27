@@ -95,11 +95,11 @@
 }
 
 .certifications h3::before {
-  background: url("../../assets/img/cursos.svg") no-repeat center center;
+  background: url("../assets/img/cursos.svg") no-repeat center center;
 }
 
 .languages h3::before {
-  background: url("../../assets/img/idiomas.svg") no-repeat center center;
+  background: url("../assets/img/idiomas.svg") no-repeat center center;
 }
 
 .education-extra li {
@@ -140,7 +140,7 @@
   display: block;
   width: 130px;
   height: 100px;
-  background: url("../../assets/img/detalhe.svg") no-repeat center;
+  background: url("../assets/img/detalhe.svg") no-repeat center;
   position: absolute;
   bottom: -50px;
   left: 20px;
